@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(236, 235, 235);
+}
+#main{
+    text-align: center;
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    height: 50vh;
+    border-radius: 10px;
+    
+}
+textarea{
+    width: 95%;
+    height: 37vh;
+}
